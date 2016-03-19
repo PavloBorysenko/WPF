@@ -1,0 +1,13 @@
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\bin\Debug\BorysenkoWpfExam.exe.config
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\bin\Debug\BorysenkoWpfExam.exe
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\bin\Debug\BorysenkoWpfExam.pdb
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\MainWindow.baml
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\MainWindow.g.cs
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\App.g.cs
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\BorysenkoWpfExam_MarkupCompile.cache
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\BorysenkoWpfExam.g.resources
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\BorysenkoWpfExam.Properties.Resources.resources
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\BorysenkoWpfExam.csproj.GenerateResource.Cache
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\BorysenkoWpfExam.exe
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\BorysenkoWpfExam.pdb
+D:\Учеба\С#\WPF\BorysenkoWpfExam\BorysenkoWpfExam\obj\Debug\BorysenkoWpfExam.csprojResolveAssemblyReference.cache
