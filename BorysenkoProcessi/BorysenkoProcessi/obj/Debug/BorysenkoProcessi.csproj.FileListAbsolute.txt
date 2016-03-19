@@ -1,0 +1,13 @@
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\bin\Debug\BorysenkoProcessi.exe.config
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\BorysenkoProcessi.csprojResolveAssemblyReference.cache
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\MainWindow.baml
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\MainWindow.g.cs
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\App.g.cs
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\BorysenkoProcessi_MarkupCompile.cache
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\BorysenkoProcessi.g.resources
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\BorysenkoProcessi.Properties.Resources.resources
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\BorysenkoProcessi.csproj.GenerateResource.Cache
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\bin\Debug\BorysenkoProcessi.exe
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\bin\Debug\BorysenkoProcessi.pdb
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\BorysenkoProcessi.exe
+D:\Учеба\С#\WPF\BorysenkoProcessi\BorysenkoProcessi\obj\Debug\BorysenkoProcessi.pdb
