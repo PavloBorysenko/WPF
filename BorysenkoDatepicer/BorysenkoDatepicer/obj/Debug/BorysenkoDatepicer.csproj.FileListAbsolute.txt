@@ -1,0 +1,13 @@
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\bin\Debug\BorysenkoDatepicer.exe.config
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\bin\Debug\BorysenkoDatepicer.exe
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\bin\Debug\BorysenkoDatepicer.pdb
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\BorysenkoDatepicer.csprojResolveAssemblyReference.cache
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\MainWindow.baml
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\MainWindow.g.cs
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\App.g.cs
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\BorysenkoDatepicer_MarkupCompile.cache
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\BorysenkoDatepicer.g.resources
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\BorysenkoDatepicer.Properties.Resources.resources
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\BorysenkoDatepicer.csproj.GenerateResource.Cache
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\BorysenkoDatepicer.exe
+D:\Учеба\С#\WPF\BorysenkoDatepicer\BorysenkoDatepicer\obj\Debug\BorysenkoDatepicer.pdb
